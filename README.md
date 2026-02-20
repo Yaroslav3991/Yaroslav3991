@@ -20,25 +20,11 @@ Currently exploring **AI + robotics** as a hobby — extending an open-source ro
 
 <div align="center">
 
-**Core**
-
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,redux&theme=dark)](https://skillicons.dev)
-
-**Styling & UI**
-
-[![My Skills](https://skillicons.dev/icons?i=styledcomponents,sass,materialui,css&theme=dark)](https://skillicons.dev)
-
-**Tooling & Testing**
-
-[![My Skills](https://skillicons.dev/icons?i=webpack,vite,jest,docker&theme=dark)](https://skillicons.dev)
-
-**Expanding Universe**
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python,cs,react&theme=dark)](https://skillicons.dev)
-
-Also fluent in: **Redux-Saga · RTK · Storybook · Microfrontends · React Native · ESLint · EPAM UUI**
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,redux,styledcomponents,sass,materialui,webpack,vite,jest,docker,nodejs,python,cs&theme=dark&perline=14)](https://skillicons.dev)
 
 </div>
+
+Also fluent in: **Redux-Saga · RTK · Storybook · Microfrontends · React Native · ESLint · EPAM UUI**
 
 ---
 
@@ -95,7 +81,7 @@ Forking & extending an open-source robot project — going well beyond the origi
 
 ---
 
-## 🏆 Notable Achievements
+## 🏆 Achievements
 
 | | |
 |---|---|
@@ -111,49 +97,14 @@ Forking & extending an open-source robot project — going well beyond the origi
 
 ## 📜 Certifications
 
-<table>
-<tr>
-<td><strong>🤖 AI & Machine Learning</strong></td>
-<td>
-<code>Introduction to Artificial Intelligence</code> · LinkedIn Learning · 2023<br/>
-<code>Top 10 Skills for Machine Learning Professionals</code> · LinkedIn Learning · 2023
-</td>
-</tr>
-<tr>
-<td><strong>⚛️ React — Advanced</strong></td>
-<td>
-<code>React: Software Architecture</code> · LinkedIn Learning · 2022<br/>
-<code>React: Design Patterns</code> · LinkedIn Learning · 2022<br/>
-<code>React: Building Large Apps</code> · LinkedIn Learning · 2022
-</td>
-</tr>
-<tr>
-<td><strong>🟦 TypeScript</strong></td>
-<td>
-<code>TypeScript: Object-Oriented Programming</code> · LinkedIn Learning · 2022
-</td>
-</tr>
-<tr>
-<td><strong>🔐 Security</strong></td>
-<td>
-<code>Learning the OWASP Top 10</code> · LinkedIn Learning · 2022<br/>
-<code>Security Testing Essential Training</code> · LinkedIn Learning · 2022
-</td>
-</tr>
-<tr>
-<td><strong>🔗 Architecture</strong></td>
-<td>
-<code>Migrating from REST to GraphQL</code> · LinkedIn Learning · 2020
-</td>
-</tr>
-<tr>
-<td><strong>👔 Leadership</strong></td>
-<td>
-<code>Inclusive Leadership</code> · LinkedIn Learning · 2022<br/>
-<code>Leading Change</code> · LinkedIn Learning · 2022
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **🤖 AI & ML** | `Introduction to Artificial Intelligence` · `Top 10 Skills for ML Professionals` |
+| **⚛️ React Advanced** | `React: Software Architecture` · `React: Design Patterns` · `React: Building Large Apps` |
+| **🟦 TypeScript** | `TypeScript: Object-Oriented Programming` |
+| **🔐 Security** | `Learning the OWASP Top 10` · `Security Testing Essential Training` |
+| **🔗 Architecture** | `Migrating from REST to GraphQL` |
+| **👔 Leadership** | `Inclusive Leadership` · `Leading Change` |
 
 *[View all 35+ certifications on LinkedIn ↗](https://www.linkedin.com/in/yaroslav-perehuda-046811192/details/certifications/)*
 
