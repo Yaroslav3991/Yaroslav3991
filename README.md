@@ -1,18 +1,8 @@
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Yaroslav%20Perehuda&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Senior%20Frontend%20Engineer%20%E2%80%94%20Team%20Lead%20%E2%80%94%20AI%20Hobbyist&descSize=16&descColor=a78bfa&animation=fadeIn" />
-</div>
-
 <br/>
 
 > *Code is a craft. Teams are a multiplier. I obsess over both.*
 
-I'm a frontend engineer with **7+ years** building complex web applications — from internal HR systems to corporate travel platforms handling thousands of bookings, to banking interfaces used by millions. I've grown from writing my first React component to leading cross-functional teams, driving architecture decisions, and mentoring the engineers around me.
 
-I believe the most underrated engineering skill is making your teammates better.
-
-Currently exploring **AI + robotics** as a hobby — extending an open-source robot with computer vision, embedded AI models, and firmware improvements. It's where frontend thinking meets the physical world.
-
-<br/>
 
 ---
 
@@ -124,7 +114,7 @@ Forking & extending an open-source robot project — going well beyond the origi
 
 > *"Yaroslav has been a highly involved teammate who consistently goes above and beyond. With his exceptional expertise in ReactJs, he has been a valuable resource in helping our team grow and improve. His skills go beyond technical expertise — he is adept at organizing the team and facilitating effective team meetings. Yaroslav has generously shared his frontend experience with our QA Engineers, helping them perform their tasks more effectively."*
 >
-> Delivery Manager @ EPAM Systems  
+> **— Vladimir Shturmer**, Delivery Manager @ EPAM Systems  
 > *(Direct manager, 1.5+ years)*
 
 </td>
@@ -145,18 +135,4 @@ Forking & extending an open-source robot project — going well beyond the origi
 
 ---
 
-## 🤝 Connect
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-@perehuda-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/perehuda)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yaroslav--perehuda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaroslav-perehuda-046811192/)
-[![Email](https://img.shields.io/badge/Email-yaroslav3991%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaroslav3991@gmail.com)
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 </div>
