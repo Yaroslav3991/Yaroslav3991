@@ -132,7 +132,3 @@ Forking & extending an open-source robot project — going well beyond the origi
     <img alt="github-snake" src="https://raw.githubusercontent.com/Yaroslav3991/Yaroslav3991/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-
----
-
-</div>
