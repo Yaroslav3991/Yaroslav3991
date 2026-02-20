@@ -114,7 +114,7 @@ Forking & extending an open-source robot project — going well beyond the origi
 
 > *"Yaroslav has been a highly involved teammate who consistently goes above and beyond. With his exceptional expertise in ReactJs, he has been a valuable resource in helping our team grow and improve. His skills go beyond technical expertise — he is adept at organizing the team and facilitating effective team meetings. Yaroslav has generously shared his frontend experience with our QA Engineers, helping them perform their tasks more effectively."*
 >
-> **— Vladimir Shturmer**, Delivery Manager @ EPAM Systems  
+> Delivery Manager @ EPAM Systems  
 > *(Direct manager, 1.5+ years)*
 
 </td>
